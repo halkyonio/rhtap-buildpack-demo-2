@@ -49,6 +49,15 @@
       <artifactId>quarkus-junit5</artifactId>
       <scope>test</scope>
     </dependency>
+
+    <!-- Dekorate -->
+    <dependency>
+      <groupId>io.dekorate</groupId>
+      <artifactId>tekton-annotations</artifactId>
+      <version>3.7.3</version>
+    </dependency>
+
+    <!-- Test -->
     <dependency>
       <groupId>io.rest-assured</groupId>
       <artifactId>rest-assured</artifactId>
